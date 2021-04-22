@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "890120199501",
+    "firebase_url": "https://investigacion-2-dsm-t-default-rtdb.firebaseio.com",
+    "project_id": "investigacion-2-dsm-t",
+    "storage_bucket": "investigacion-2-dsm-t.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890120199501:android:9d3401255f1d98a43a6b04",
+        "android_client_info": {
+          "package_name": "sv.edu.udb.investigacion2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890120199501-a8kkl5mgle0t136nc0kfc07vjb8usr37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP_OotHWTgYA4LeF86bcYrZt9wkCfiBEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890120199501-a8kkl5mgle0t136nc0kfc07vjb8usr37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
